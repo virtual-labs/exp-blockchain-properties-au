@@ -1,1 +1,1 @@
-## Properties of Blockchain and understand how it is different from conventional databases
+ <h2>Differentiating Blockchain Databases from Conventional Databases</h2>
