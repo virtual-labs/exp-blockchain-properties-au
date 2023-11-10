@@ -2,36 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is conventional database?<",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "A database that uses neural networks to store data.",
+        "b": "A database that stores data in flat files without any structured relationships.",
+        "c": "A relational database that uses structured query language (SQL)",
+        "d": "A physical filing system used in offices before the digital age."
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "what is blockchain database?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "A type of database that only stores text-based records in a hierarchical format.",
+        "b": "A centralized database managed by a single entity or organization.",
+        "c": "A decentralized and distributed ledger where data is stored in blocks that are chained together.",
+        "d": "A database that is stored only on cloud servers and accessed via internet browsers"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the difference between conventional and blockchain database?",
+      "answers": {
+        "a": "Conventional databases typically allow for easy modification or deletion of records, while blockchain databases ensure that once data is added, it becomes immutable.",
+        "b": "Conventional databases can only store image files, while blockchain databases can store all file types.",
+        "c": "Conventional databases are typically centralized and managed by a single entity, while blockchain databases are decentralized and distributed ledgers where data is secured using cryptographic principles.",
+        "d": "Conventional databases are only accessible online, while blockchain databases can be accessed both online and offline."
       },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
