@@ -2,38 +2,68 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What is conventional database?<",
+      "question": "Which of the following is an example of a conventional database?",
       "answers": {
-        "a": "A database that uses neural networks to store data.",
-        "b": "A database that stores data in flat files without any structured relationships.",
-        "c": "A relational database that uses structured query language (SQL)",
-        "d": "A physical filing system used in offices before the digital age."
+        "a": "MySQL",
+        "b": "Bitcoin",
+        "c": "Ethereum",
+        "d": "Blockchain"
       },
-      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What does a blockchain store data in?",
+      "answers": {
+        "a": "Tables",
+        "b": "Spreadsheets",
+        "c": "Blocks",
+        "d": "Documents"
+      },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "what is blockchain database?",
+      "question": "Which of these is a key feature of a blockchain?",
       "answers": {
-        "a": "A type of database that only stores text-based records in a hierarchical format.",
-        "b": "A centralized database managed by a single entity or organization.",
-        "c": "A decentralized and distributed ledger where data is stored in blocks that are chained together.",
-        "d": "A database that is stored only on cloud servers and accessed via internet browsers"
+        "a": "Data can be deleted anytime",
+        "b": "Data is stored in a central server",
+        "c": "Data is stored in blocks linked together",
+        "d": "Data is not encrypted"
       },
-      
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "What is the difference between conventional and blockchain database?",
+      "question": "Who controls a centralized database?",
       "answers": {
-        "a": "Conventional databases typically allow for easy modification or deletion of records, while blockchain databases ensure that once data is added, it becomes immutable.",
-        "b": "Conventional databases can only store image files, while blockchain databases can store all file types.",
-        "c": "Conventional databases are typically centralized and managed by a single entity, while blockchain databases are decentralized and distributed ledgers where data is secured using cryptographic principles.",
-        "d": "Conventional databases are only accessible online, while blockchain databases can be accessed both online and offline."
+        "a": "Everyone in the network",
+        "b": "A single authority or admin",
+        "c": "No one controls it",
+        "d": "Only users with blockchain wallets"
       },
-      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which database type allows decentralization?",
+      "answers": {
+        "a": "Conventional database",
+        "b": "Cloud database",
+        "c": "Blockchain database",
+        "d": "Flat file database"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What ensures the sequence of data in a blockchain?",
+      "answers": {
+        "a": "Data tables",
+        "b": "Date of entry",
+        "c": "Cryptographic hashes linking blocks",
+        "d": "Database keys"
+      },
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
