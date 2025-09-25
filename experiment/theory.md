@@ -1,7 +1,5 @@
 
-<h3>Thoery</h3>
-
-<u><h4> Conventional databases</h4></u>
+<h4> Conventional databases</h4>
 
  <p>A conventional database, often referred to as a traditional or centralized database, is a structured collection of data that can be easily accessed, managed, and updated. It operates on a centralized system where a single entity or a group of related entities have control over the data.</p>
  <div style="text-align-center;">
