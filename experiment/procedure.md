@@ -1,5 +1,6 @@
 
 
+
 <p>In this demonstration, we simulate product purchases using a database and blockchain. Users first add products by entering the product name, price, and available stock. Then, they select and purchase products, after which a transaction receipt is generated. The purchased data is stored in the database, and an encrypted copy is recorded on the blockchain. Users can edit the database data to observe that it can be altered, while the blockchain data remains secure. Finally, the integrity of the database data can be checked by comparing it with the encrypted blockchain data, showing whether the data is valid or has been tampered with.</p>
 
 
