@@ -141350,7 +141350,7 @@
         }
         return (0, Pi.Z)(n);
       })($c.ExtrudeGeometry),
-      og = n.p + "images/newTexture1..jpg";
+      og = n.p + "images/newTexture1.jpg";
     bf({ TextGeometry: ag });
     var sg = function () {
         var e =
