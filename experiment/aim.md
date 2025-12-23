@@ -1,3 +1,3 @@
 
-<p>The main objective of this experiment is to test the properties of Blockchain and understand how it is different from conventional databases.</p>
+<p>The main objective of this experiment is to examine the properties of blockchain and understand how it differs from conventional database.</p>
 
