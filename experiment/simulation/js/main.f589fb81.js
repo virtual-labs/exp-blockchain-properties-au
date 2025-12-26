@@ -145661,7 +145661,7 @@
                         decentralization:
                           "\n<p>This page demonstrates the concept of decentralization and data availability in blockchain.</p>\n<p>In order to demonstrate data availability, create a transaction by clicking the Buy button. Observe how data is available in conventional and blockchain databases.</p>\n",
                         performance:
-                          "<p>This page simulates multiple transactions using a shopping cart to demonstrate and compare the performance of RDBMS and blockchain systems. Add products to the cart and click \u201cBuy Selected Products\u201d to initiate the transactions. Observe how each system processes the transactions and updates the data, highlighting the performance differences between RDBMS and blockchain.</p>",
+                          "<p>This page simulates multiple transactions using a shopping cart to demonstrate and compare the performance of RDBMS and blockchain systems. Select the products and click \u201cBuy Selected Products\u201d to initiate the transactions. Observe how each system processes the transactions and updates the data, highlighting the performance differences between RDBMS and blockchain.</p>",
                       }[u],
                     },
                   }),
